@@ -1,0 +1,50 @@
+.highlight {
+  border-radius: 0.4rem;
+  color: black;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+}
+.bold {
+  padding-left: 1rem;
+  font-weight: 700;
+  /* width: 1500; */
+  /* overflow: hidden; */
+}
+.blue {
+  background-color: rgb(239, 190, 190);
+}
+
+.white {
+  background-color: white;
+}
+
+.Khaki {
+  background-color: rgb(242, 236, 179);}
+
+.LightSteelBlue {
+  background-color: rgb(209, 221, 237) ;}
+
+.Plum {
+  background-color: rgb(226, 193, 226);}
+
+.LightPink {
+  background-color: rgb(247, 197, 205);}
+
+.MediumAquaMarine {
+  background-color: MediumAquaMarine;}
+
+.BurlyWood {
+  background-color: rgb(225, 197, 161);}
+
+.DarkGray {
+  background-color: rgb(194, 191, 191);}
+
+.SlateGray {
+  background-color: rgb(141, 161, 183);}
+
+.IndianRed {
+  background-color: rgb(214, 135, 135);}
+
+.Coral {
+  background-color: rgb(232, 152, 123);
+}
